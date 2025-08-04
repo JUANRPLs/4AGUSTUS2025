@@ -1,0 +1,21 @@
+public class Teman {
+    public static void main(String[] args) {
+        // Main Method
+        String namaTeman1 = "Azka Azzam Mubarok";
+        int umurTeman1 = "15";
+        String cita cita1 = "Programmer";
+        String namaTeman2 = Baihaqqi Jabbar Zeinuar;
+        int umurTeman2 = 16;
+        String citaCita2 = "sukses dunia akhirat";
+        String namaTeman3 = "Azka  RUllah Feeda UI Haqq";
+        int umurTeman3 = 15;
+        String citaCita3 = "WEB DEVELOPER";
+        String namaTeman4 = "Wildan Hanif Sulhan";
+        int umurTeman4 = 16;
+        String citaCita4 = "Programmer dan Youtuber";
+        String namaTeman5 = "Ghaisan Afif AL Ghifari";
+        int umurTeman5 = 15;
+        String citaCita5 = "SOFTWARE ENGINEER";
+
+    }
+}
