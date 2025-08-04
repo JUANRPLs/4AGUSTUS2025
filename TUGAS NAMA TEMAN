@@ -2,9 +2,9 @@ public class Teman {
     public static void main(String[] args) {
         // Main Method
         String namaTeman1 = "Azka Azzam Mubarok";
-        int umurTeman1 = "15";
-        String cita cita1 = "Programmer";
-        String namaTeman2 = Baihaqqi Jabbar Zeinuar;
+        int umurTeman1 = 15;
+        String citacita1 = "Programmer";
+        String namaTeman2 = "Baihaqqi Jabbar Zeinuar";
         int umurTeman2 = 16;
         String citaCita2 = "sukses dunia akhirat";
         String namaTeman3 = "Azka  RUllah Feeda UI Haqq";
@@ -16,6 +16,21 @@ public class Teman {
         String namaTeman5 = "Ghaisan Afif AL Ghifari";
         int umurTeman5 = 15;
         String citaCita5 = "SOFTWARE ENGINEER";
+
+        system.out.println(namaTeman1)
+        System.out.println(umurTeman1)
+        System.out.println(citacita1)
+        System.out.println(namaTeman2)
+        System.out.println(umurTeman2)
+        System.out.println(citaCita2)
+        System.out.println(namaTeman3)
+        System.out.println(umurTeman3)
+        System.out.println(citaCita3)
+        System.out.println(namaTeman4)
+        System.out.println(umurTeman4)
+        System.out.println(citaCita4)
+        System.out.println(namaTeman5)
+        System.out.println(umurTeman5);
 
     }
 }
